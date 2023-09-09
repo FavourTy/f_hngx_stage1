@@ -9,7 +9,7 @@ This is a simple flutter app created as part of the HNGx task.The App displays a
 ## Appetize Link
 Device Pixel 7 Pro. Version: 13.0. Scale: 75%
 
-https://appetize.io/app/2gmepykizv5mtf7j3aldfumvgy?device=pixel7pro&osVersion=13.0&scale=50&deviceColor=black
+https://appetize.io/app/c4hqonudlvtlwki7vnjjvdvkcy?device=pixel4&osVersion=11.0&scale=75
 
 ## Installation
 To run this project on your local machine, you'll need to have Flutter installed. If you haven't already, you can follow the Flutter installation guide for your platform.
