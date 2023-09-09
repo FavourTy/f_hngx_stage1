@@ -16,14 +16,15 @@ To run this project on your local machine, you'll need to have Flutter installed
 
 Once Flutter is set up, follow these steps:
 
-Clone this repository:
- git clone https://github.com/favourTy/f_hngx_stage1.git
-Navigate to the project directory:
- cd hng_project
-Install the project dependencies:
-run flutter pub get
-Run the app:
- flutter run
+* Clone this repository:
+   git clone https://github.com/favourTy/f_hngx_stage1.git
+* Navigate to the project directory:
+   cd hng_project
+* Install the project dependencies:
+   run flutter pub get
+* Run the app:
+   flutter run
+  
 ## Assumptions
 This project assumes that you have Flutter and its dependencies installed on your development machine.
 
