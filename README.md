@@ -7,7 +7,7 @@ This is a simple flutter app created as part of the HNGx task.The App displays a
 * Opens an in-app webview to load your GitHub Profile page.
 
 ## Appetize Link
-Device Pixel 7 Pro. Version: 13.0. Scale: 75%
+Device Pixel 4 . Version: 11.0. Scale: 75%
 
 https://appetize.io/app/c4hqonudlvtlwki7vnjjvdvkcy?device=pixel4&osVersion=11.0&scale=75
 
