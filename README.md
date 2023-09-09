@@ -18,8 +18,7 @@ Once Flutter is set up, follow these steps:
 
 * Clone this repository:
    git clone https://github.com/favourTy/f_hngx_stage1.git
-* Navigate to the project directory:
-   cd hng_project
+* Navigate to the project directory
 * Install the project dependencies:
    run flutter pub get
 * Run the app:
