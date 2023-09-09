@@ -1,16 +1,59 @@
-# task_one
+# My Flutter HNGx App
 
-A new Flutter project.
+This is a simple flutter app created as part of the HNGx task.The App displays a picture and includes a button that opens an in-app webview to load your Github profile 
 
-## Getting Started
+## Features
+*Displays your slack name and picture.
+*Opens an in-app webview to load your GitHub Profile page.
 
-This project is a starting point for a Flutter application.
+##Appetize Link
+Device Pixel 7 Pro. Version: 13.0. Scale: 75%
 
-A few resources to get you started if this is your first Flutter project:
+https://appetize.io/app/2gmepykizv5mtf7j3aldfumvgy?device=pixel7pro&osVersion=13.0&scale=50&deviceColor=black
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##Installation
+To run this project on your local machine, you'll need to have Flutter installed. If you haven't already, you can follow the Flutter installation guide for your platform.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Once Flutter is set up, follow these steps:
+
+Clone this repository:
+ git clone https://github.com/favourTy/HNGx.git
+Navigate to the project directory:
+cd hng_project
+Install the project dependencies:
+run flutter pub get
+Run the app:
+flutter run
+Assumptions
+This project assumes that you have Flutter and its dependencies installed on your development machine.
+
+Packages Used
+Screen adaptation utility for Flutter. webview_flutter - Flutter plugin for rendering web pages inside your app.
+
+License
+This project is not licensed under the MIT License.
+Device Pixel 7 Pro. Version: 13.0. Scale: 75%
+
+https://appetize.io/app/2gmepykizv5mtf7j3aldfumvgy?device=pixel7pro&osVersion=13.0&scale=50&deviceColor=black
+
+##Installation
+To run this project on your local machine, you'll need to have Flutter installed. If you haven't already, you can follow the Flutter installation guide for your platform.
+
+Once Flutter is set up, follow these steps:
+
+Clone this repository:
+ git clone https://github.com/Kellytomi/HNGx.git
+Navigate to the project directory:
+cd hng_project
+Install the project dependencies:
+run flutter pub get
+Run the app:
+flutter run
+Assumptions
+This project assumes that you have Flutter and its dependencies installed on your development machine.
+
+Packages Used
+Screen adaptation utility for Flutter. webview_flutter - Flutter plugin for rendering web pages inside your app.
+
+License
+This project is not licensed under the MIT License.
